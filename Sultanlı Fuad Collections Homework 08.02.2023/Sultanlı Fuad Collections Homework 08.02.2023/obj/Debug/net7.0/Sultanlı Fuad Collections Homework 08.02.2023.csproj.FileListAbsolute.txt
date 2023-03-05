@@ -1,0 +1,30 @@
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.csproj.AssemblyReference.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.AssemblyInfoInputs.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.AssemblyInfo.cs
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.csproj.CoreCompileInputs.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.exe
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.deps.json
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.runtimeconfig.json
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.dll
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.pdb
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.dll
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\refint\Sultanlı Fuad Collections Homework 08.02.2023.dll
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.pdb
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.genruntimeconfig.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\ref\Sultanlı Fuad Collections Homework 08.02.2023.dll
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.exe
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.deps.json
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.runtimeconfig.json
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.dll
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\bin\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.pdb
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.csproj.AssemblyReference.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.AssemblyInfoInputs.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.AssemblyInfo.cs
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.csproj.CoreCompileInputs.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.dll
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\refint\Sultanlı Fuad Collections Homework 08.02.2023.dll
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.pdb
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\Sultanlı Fuad Collections Homework 08.02.2023.genruntimeconfig.cache
+C:\Users\Afqan\source\repos\Sultanlı Fuad Collections Homework 1 08.02.2023\Sultanlı Fuad Collections Homework 08.02.2023\obj\Debug\net7.0\ref\Sultanlı Fuad Collections Homework 08.02.2023.dll

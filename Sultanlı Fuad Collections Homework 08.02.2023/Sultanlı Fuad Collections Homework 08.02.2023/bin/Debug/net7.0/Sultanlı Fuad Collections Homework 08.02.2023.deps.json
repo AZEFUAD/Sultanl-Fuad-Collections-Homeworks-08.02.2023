@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Sultanlı Fuad Collections Homework 08.02.2023/1.0.0": {
+        "runtime": {
+          "Sultanlı Fuad Collections Homework 08.02.2023.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sultanlı Fuad Collections Homework 08.02.2023/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
